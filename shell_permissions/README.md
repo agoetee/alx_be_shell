@@ -9,4 +9,5 @@ Write a script that prints the effective username of the current user
 ## 2. Empty!
 Write a script that creates an empty file called hello.
 
-## 3. Execute 
+## 3. Execute
+Write a script that adds execute permission to the owner of the file hello. 
