@@ -18,5 +18,8 @@ Write a script that adds execute permission to the owner and the group owner, an
 The file hello will be in the working directory
 
 ## 5. John Doe
+Write a script that sets the mode of the file hello to this:
+
+`-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello`
 
 
